@@ -1,5 +1,5 @@
 {
-  "versione": 3,
+  "versione": 4,
   "lcn": {
     "Rai1.it": 1, "Rai2.it": 2, "Rai3.it": 3, "Rete4.it": 4, "Canale5.it": 5,
     "Italia1.it": 6, "LA7.it": 7, "TV8.it": 8, "Nove.it": 9, "20.it": 20,
@@ -7,6 +7,7 @@
     "Cielo.it": 26, "TV2000.it": 28, "LA7d.it": 29, "La5.it": 30, "RealTime.it": 31,
     "Cine34.it": 34, "Focus.it": 35, "TopCrime.it": 36, "RaiNews24.it": 48,
     "SkyTG24.it": 50, "DMAX.it": 52, "RaiStoria.it": 54,
+    "Sportitalia.it": 60, "Sportitalia24.it": 61, "SportitaliaMotori.it": 62, "SportitaliaSolocalcio.it": 63,
     "Boing.it": 40, "K2.it": 41, "RaiGulp.it": 42, "RaiYoyo.it": 43, "Frisbee.it": 44,
     "BoingPlus.it": 45, "Cartoonito.it": 46, "Super.it": 47,
     "Canale21.it": 10, "Televomero.it": 11, "TeleA.it": 13, "Canale8.it": 14, "Telecolore.it": 75,
